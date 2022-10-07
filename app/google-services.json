@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "820682608049",
+    "firebase_url": "https://litechat-1cb99-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "litechat-1cb99",
+    "storage_bucket": "litechat-1cb99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820682608049:android:1758cfcad60ec7d0cd8190",
+        "android_client_info": {
+          "package_name": "com.example.litechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820682608049-2jl7m73490o7lb9a0phvh25re0h359qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.litechat",
+            "certificate_hash": "a6aea14ae667b6f68b6fd698ebcb89384f2d6dc8"
+          }
+        },
+        {
+          "client_id": "820682608049-ckq6l6uqfk1vbh5tq8nd57ot7v794384.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJpzyQE4Pzoi7EfRQpBJGjS1Pg2iNtv88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820682608049-ckq6l6uqfk1vbh5tq8nd57ot7v794384.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
